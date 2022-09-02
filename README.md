@@ -8,10 +8,10 @@ axelar-web-app, axelarjs-sdk etc.
 | Date | Auditor | Scope |
 | :---:        |     :--- | :--- |
 | 2021-08 | NCC | `tofn`, `tofnd` |
-| 2021-11 | [Adrian & Lucas](audits/2021-11 Adrian & Lucas.pdf) | `tofn`, `tofnd` |
-| 2021-11 | [Commonprefix](audits/2021-11 Commonprefix.pdf) | `axelar-cgp-solidity` |
+| 2021-11 | [Adrian & Lucas](./audits/2021-11 Adrian & Lucas.pdf) | `tofn`, `tofnd` |
+| 2021-11 | [Commonprefix](./audits/2021-11 Commonprefix.pdf) | `axelar-cgp-solidity` |
 | 2021-12 | NCC | `axelar-core`, `axelar-cgp-solidity` |
-| 2021-12 | [Cure53](audits/2021-12 Cure53.pdf) | `axelar-core`, `axelar-cgp-solidity`, `tofn`, `tofnd`, `axelarjs-sdk` |
+| 2021-12 | [Cure53](./audits/2021-12 Cure53.pdf) | `axelar-core`, `axelar-cgp-solidity`, `tofn`, `tofnd`, `axelarjs-sdk` |
 | 2021-12 | Oak Security | `axelar-core`, `axelar-cgp-solidity` |
 | 2022-01 | NCC | `axelar-cgp-solidity` |
 | 2022-02 | [Ackee Blockchain](audits/2022-02 Ackee blockchain.pdf) | `axelar-cgp-solidity` |
