@@ -4,12 +4,13 @@ Audit reports of Axelar network's tech stack,
 covering the core protocol, smart contracts, cryptographic library, frontend, and backend code,
 found in repos, axelar-core, axelar-cgp-solidity, tofn, tofnd,
 axelar-web-app, axelarjs-sdk etc.
+We conduct ongoing audits that review all changes to the code to ensure a high degree of security.
 
 | Date | Auditor | Scope |
 | :---: | :--- | :--- |
 | 2021-08 | NCC | `tofn`, `tofnd` |
-| 2021-11 | [Adrian & Lucas](audits/2021-11%20Adrian%20and%20Lucas.pdf) | `tofn`, `tofnd` |
 | 2021-11 | [Commonprefix](audits/2021-11%20Commonprefix.pdf) | `axelar-cgp-solidity` |
+| 2021-11 | [Adrian and Lucas](audits/2021-11%20Adrian%20and%20Lucas.pdf) | `tofn`, `tofnd` |
 | 2021-12 | NCC | `axelar-core`, `axelar-cgp-solidity` |
 | 2021-12 | [Cure53](audits/2021-12%20Cure53.pdf) | `axelar-core`, `axelar-cgp-solidity`, `tofn`, `tofnd`, `axelarjs-sdk` |
 | 2021-12 | Oak Security | `axelar-core`, `axelar-cgp-solidity` |
