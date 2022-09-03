@@ -26,12 +26,12 @@ We conduct ongoing audits that review all changes to the code to ensure a high d
 | 2022-04 | Chaintroopers | `axelar-web-app`, `axelarjs-sdk` |
 | 2022-05 | [Ackee Blockchain](audits/2022-05%20Ackee%20blockchain.pdf) | `axelar-cgp-solidity` |
 | 2022-05 | NCC | `axelar-core` |
-| 2022-06 | [Ackee Blockchain](audits/2022-06%20Ackee%20blockchain.pdf) | `axelar-cgp-solidity` |
+| 2022-06 | [Ackee Blockchain](audits/2022-06%20Ackee%20blockchain.pdf) | `axelar-utils-solidity` |
 | 2022-06 | NCC | `axelar-cgp-solidity` |
-| 2022-07 | [Ackee Blockchain](audits/2022-07%20Ackee%20blockchain.pdf) | `axelar-cgp-solidity` |
+| 2022-07 | [Ackee Blockchain](audits/2022-07%20Ackee%20blockchain.pdf) | `axelar-cgp-solidity`, `axelar-xc20-wrapper` |
 | 2022-07 | NCC | `axelar-core` |
 | 2022-07 | [Ackee Blockchain](audits/2022-07%20Ackee%20blockchain-v2.pdf) | `axelar-cgp-solidity` |
-| 2022-07 | [Code4rena Contest](https://code4rena.com/contests/2022-07-axelar-network-v2-contest) | `axelar-cgp-solidity` |
+| 2022-07 | [Code4rena Contest](https://code4rena.com/contests/2022-07-axelar-network-v2-contest) | `axelar-cgp-solidity`, `axelar-xc20-wrapper` |
 | 2022-08 | [Chaintroopers](audits/2022-08%20Chaintroopers.pdf) | `axelar-cgp-solidity` |
 | 2022-08 | NCC | `axelar-cgp-solidity` |
-| 2022-08 | [Ackee Blockchain](audits/2022-08%20Ackee%20blockchain.pdf) | `axelar-cgp-solidity` |
+| 2022-08 | [Ackee Blockchain](audits/2022-08%20Ackee%20blockchain.pdf) | `axelar-utils-solidity` |
