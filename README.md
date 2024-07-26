@@ -7,6 +7,7 @@ axelar-web-app, axelarjs-sdk etc.
 We conduct ongoing audits that review all changes to the code to ensure a high degree of security.
 
 |  Date   | Audit                                                                                 |                                                       Mitigations                                                       | Scope                                                                 |
+| :-----: | :------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------- |
 | 2024-07 | [Ackee Blockchain](audits/2024-07%20Ackee%20Blockchain.pdf)                           | [Here](https://bright-ambert-2bd.notion.site/6500bd49bd9a4e139936e8ebb97e592d?v=0d59d1bd0de145fa9e731c0d179219db&pvs=4) | `gateway-v2`
 | 2024-06 | [NCC](audits/2024-06%20NCC.pdf)                           | [Here](https://bright-ambert-2bd.notion.site/20240611-NCC-Amplifier-v9-f6b1bd358b584aa093fcde8b6e8c88d4?pvs=4) | `gateway-v2`
 | 2024-04 | [Ackee Blockchain](audits/2024-04%20Ackee%20Blockchain.pdf)                           | [Here](https://bright-ambert-2bd.notion.site/20240423-Ackee-Gateway-V2-v1-0-4cabb8563d2649c29338e9f58e14163c?pvs=4) | `gateway-v2`
