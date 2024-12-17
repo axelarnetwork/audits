@@ -11,7 +11,7 @@ We conduct ongoing audits that review all changes to the code to ensure a high d
 | 2024-11 | [NCC](audits/2024-11%20NCC.pdf)                           |  | `interchain-token-service` `axelar-amplifier`
 | 2024-11 | [Ackee](audits/2024-11%20Ackee%20Blockchain.pdf)                           |  | `interchain-token-service`
 | 2024-11 | [Ottersec](audits/2024-11%20Ottersec%20-%20Sui.pdf)                           | [Here](https://bright-ambert-2bd.notion.site/15bc53fccb7780d48608d3657b6662ec?v=a804f3291a1a4cd58a7a6ab633ca85b0&pvs=4) | `axelar-cgp-sui`
-| 2024-08 | [Code4rena](https://github.com/code-423n4/2024-08-axelar-network)                           |  | `interchain-token-service`
+| 2024-08 | [Code4rena](https://github.com/code-423n4/2024-08-axelar-network)                           |  | `interchain-token-service` `axelar-amplifier`
 | 2024-07 | [Ackee Blockchain](audits/2024-07%20Ackee%20Blockchain.pdf)                           | [Here](https://bright-ambert-2bd.notion.site/6500bd49bd9a4e139936e8ebb97e592d?v=0d59d1bd0de145fa9e731c0d179219db&pvs=4) | `AxelarAmplifierGateway`
 | 2024-06 | [Ottersec](audits/2024-06%20Ottersec.pdf)                           | [Here](https://bright-ambert-2bd.notion.site/202406-Ottersec-Sui-d6161ff8a5214a908aa71ca68c00ba80?pvs=4) | `axelar-cgp-sui`
 | 2024-06 | [NCC](audits/2024-06%20NCC.pdf)                           | [Here](https://bright-ambert-2bd.notion.site/20240611-NCC-Amplifier-v9-f6b1bd358b584aa093fcde8b6e8c88d4?pvs=4) | `AxelarAmplifierGateway`
