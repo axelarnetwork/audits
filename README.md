@@ -9,15 +9,15 @@ Audit reports cover the **core protocol, smart contracts, cryptographic library,
 - `tofnd`
 - `axelar-web-app`
 - `axelarjs-sdk`
-- etc.
+- `interchain-token-service`
+- `axelar-cgp-sui`
+- `axelar-cgp-stellar`
+- `axelar-amplifier`
+- `interchain-governance-orchestrator`
 
 We conduct **ongoing audits** that review all changes to the code to ensure a high degree of security.
 
-## Amplifier Chain Audits
 For **Amplifier chain audits**, please refer to the [Amplifier Chain Audits](#integrator-audits) section.
-
-
-
 
 
 |  Date   | Audit                                                                                 |                                                       Mitigations                                                       | Scope                                                                 |
@@ -85,6 +85,11 @@ For **Amplifier chain audits**, please refer to the [Amplifier Chain Audits](#in
 ---
 ## Amplifier Chain Audits
 
-|  Date   | Audit                                                                                 |                                                       Mitigations                                                       | Scope                                                                 |
-| :-----: | :------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------- |
-| 2024-11 | [Ottersec](audits/2024-11%20Ottersec%20-%20Sui.pdf)                           | [Here](https://bright-ambert-2bd.notion.site/15bc53fccb7780d48608d3657b6662ec?v=a804f3291a1a4cd58a7a6ab633ca85b0&pvs=4) | 
+|  Date   | Audit  | Scope  |
+| :-----: | :----: | :----: |
+| 2025-01 | [FYEO]( ) | Solana |
+| 2025-01 | [FYEO](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Axelar/Axelar%20-%20Security%20Code%20Review%20of%20Axelar%20Stacks%20v1.0.pdf) | Stacks |
+| 2024-12 | [FYEO]([ ](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Axelar/Axelar%20-%20Security%20Code%20Review%20of%20Axelar%20XRPL%20v1.0.pdf)) | XRPL |
+| 2024-12 | [NCC]( ) | XRPL |
+| 2024-12 | [Ackee]( ) | Hedera |
+| 2024-11 | [Arda]( ) | MultiversX |
