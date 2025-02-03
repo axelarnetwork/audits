@@ -1,10 +1,24 @@
 # Axelar network audits
+# Audit Reports of Axelar Network's Tech Stack
 
-Audit reports of Axelar network's tech stack,
-covering the core protocol, smart contracts, cryptographic library, frontend, and backend code,
-found in repos, axelar-core, axelar-cgp-solidity, tofn, tofnd,
-axelar-web-app, axelarjs-sdk etc.
-We conduct ongoing audits that review all changes to the code to ensure a high degree of security.
+Audit reports cover the **core protocol, smart contracts, cryptographic library, frontend, and backend code** found in the following repositories:
+
+- `axelar-core`
+- `axelar-cgp-solidity`
+- `tofn`
+- `tofnd`
+- `axelar-web-app`
+- `axelarjs-sdk`
+- etc.
+
+We conduct **ongoing audits** that review all changes to the code to ensure a high degree of security.
+
+## Amplifier Chain Audits
+For **Amplifier chain audits**, please refer to the [Amplifier Chain Audits](#integrator-audits) section.
+
+
+
+
 
 |  Date   | Audit                                                                                 |                                                       Mitigations                                                       | Scope                                                                 |
 | :-----: | :------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------- |
@@ -67,3 +81,10 @@ We conduct ongoing audits that review all changes to the code to ensure a high d
 | 2021-11 | [Adrian and Lucas](audits/2021-11%20Adrian%20and%20Lucas.pdf)                         |                                                                                                                         | `tofn`, `tofnd`                                                       |
 | 2021-11 | [Commonprefix](audits/2021-11%20Commonprefix.pdf)                                     |                                                                                                                         | `axelar-cgp-solidity`                                                 |
 | 2021-08 | NCC                                                                                   |                                                                                                                         | `tofn`, `tofnd`                                                       |
+
+---
+## Amplifier Chain Audits
+
+|  Date   | Audit                                                                                 |                                                       Mitigations                                                       | Scope                                                                 |
+| :-----: | :------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------- |
+| 2024-11 | [Ottersec](audits/2024-11%20Ottersec%20-%20Sui.pdf)                           | [Here](https://bright-ambert-2bd.notion.site/15bc53fccb7780d48608d3657b6662ec?v=a804f3291a1a4cd58a7a6ab633ca85b0&pvs=4) | 
