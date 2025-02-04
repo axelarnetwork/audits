@@ -1,10 +1,24 @@
 # Axelar network audits
+# Audit Reports of Axelar Network's Tech Stack
 
-Audit reports of Axelar network's tech stack,
-covering the core protocol, smart contracts, cryptographic library, frontend, and backend code,
-found in repos, axelar-core, axelar-cgp-solidity, tofn, tofnd,
-axelar-web-app, axelarjs-sdk etc.
-We conduct ongoing audits that review all changes to the code to ensure a high degree of security.
+Audit reports cover the **core protocol, smart contracts, cryptographic library, frontend, and backend code** found in the following repositories:
+
+- `axelar-core`
+- `axelar-cgp-solidity`
+- `tofn`
+- `tofnd`
+- `axelar-web-app`
+- `axelarjs-sdk`
+- `interchain-token-service`
+- `axelar-cgp-sui`
+- `axelar-cgp-stellar`
+- `axelar-amplifier`
+- `interchain-governance-orchestrator`
+
+We conduct **ongoing audits** that review all changes to the code to ensure a high degree of security.
+
+For **Amplifier chain audits**, please refer to the [Amplifier Chain Audits](#Amplifier-Chain-Audits) section.
+
 
 |  Date   | Audit                                                                                 |                                                       Mitigations                                                       | Scope                                                                 |
 | :-----: | :------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------- |
@@ -67,3 +81,15 @@ We conduct ongoing audits that review all changes to the code to ensure a high d
 | 2021-11 | [Adrian and Lucas](audits/2021-11%20Adrian%20and%20Lucas.pdf)                         |                                                                                                                         | `tofn`, `tofnd`                                                       |
 | 2021-11 | [Commonprefix](audits/2021-11%20Commonprefix.pdf)                                     |                                                                                                                         | `axelar-cgp-solidity`                                                 |
 | 2021-08 | NCC                                                                                   |                                                                                                                         | `tofn`, `tofnd`                                                       |
+
+---
+## Amplifier Chain Audits
+
+|  Date   | Audit  | Scope  |
+| :-----: | :----: | :----: |
+| 2025-01 | FYEO | Solana |
+| 2025-01 | [FYEO](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Axelar/Axelar%20-%20Security%20Code%20Review%20of%20Axelar%20Stacks%20v1.0.pdf) | Stacks |
+| 2024-12 | [FYEO](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Axelar/Axelar%20-%20Security%20Code%20Review%20of%20Axelar%20XRPL%20v1.0.pdf) | XRPL |
+| 2024-12 | NCC | XRPL |
+| 2024-12 | Ackee | Hedera |
+| 2024-11 | Arda | MultiversX |
