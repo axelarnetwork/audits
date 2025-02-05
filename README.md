@@ -1,13 +1,28 @@
 # Axelar network audits
+# Audit Reports of Axelar Network's Tech Stack
 
-Audit reports of Axelar network's tech stack,
-covering the core protocol, smart contracts, cryptographic library, frontend, and backend code,
-found in repos, axelar-core, axelar-cgp-solidity, tofn, tofnd,
-axelar-web-app, axelarjs-sdk etc.
-We conduct ongoing audits that review all changes to the code to ensure a high degree of security.
+Audit reports cover the **core protocol, smart contracts, cryptographic library, frontend, and backend code** found in the following repositories:
+
+- `axelar-core`
+- `axelar-cgp-solidity`
+- `tofn`
+- `tofnd`
+- `axelar-web-app`
+- `axelarjs-sdk`
+- `interchain-token-service`
+- `axelar-cgp-sui`
+- `axelar-cgp-stellar`
+- `axelar-amplifier`
+- `interchain-governance-orchestrator`
+
+We conduct **ongoing audits** that review all changes to the code to ensure a high degree of security.
+
+For **Amplifier chain audits**, please refer to the [Amplifier Chain Audits](#Amplifier-Chain-Audits) section.
+
 
 |  Date   | Audit                                                                                 |                                                       Mitigations                                                       | Scope                                                                 |
 | :-----: | :------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------- |
+
 | 2025-01 | [Ackee Blockchain](audits/2025-01%20Ackee%20_%20ITS.pdf)                        | [Here](https://bright-ambert-2bd.notion.site/189c53fccb778044a871def8221c2e39?v=189c53fccb7780f684d8000cf88ee197&pvs=4) | `interchain-token-service`
 | 2025-01 | [FYEO](audits/2025-01%20FYEO%20_%20Soroban.pdf)                             | [Here](https://bright-ambert-2bd.notion.site/189c53fccb77805c9083e66b03ba4237?v=189c53fccb7780e68feb000c3e3c371d&pvs=4) | `axelar-cgp-stellar`
 | 2024-11 | [NCC](audits/2024-11%20NCC%20_%20ITS.pdf)                                       | [Here](https://bright-ambert-2bd.notion.site/189c53fccb7780afbfb0da966345e578?v=189c53fccb77807cba16000cfd8f54f3&pvs=4) | `interchain-token-service`
@@ -25,6 +40,7 @@ We conduct ongoing audits that review all changes to the code to ensure a high d
 | 2023-11 | [Ackee Blockchain](audits/2023-11%20Ackee%20Blockchain.pdf)                     | [Here](https://bright-ambert-2bd.notion.site/54aa710306f5468285ad073f41853df5?v=6a8e046ff96345349ab7d69a5e788f1b&pvs=4) | `interchain-token-service`                                            |
 | 2023-10 | [Least Authority](audits/2023-10%20Least%20Authority.pdf)                       | [Here](https://bright-ambert-2bd.notion.site/9e0ab83db078454087eb1c6e19204396?v=80e2c975183948f891293536eddd539f)    | `interchain-token-service`                                            |
 | 2023-08 | [Yaar Hahn](audits/2023-08%20Yaar%20Hahn%20ITS.pdf)                             | [Here](https://bright-ambert-2bd.notion.site/8e1db8cbf7354ec2b4083953cdca6b63?v=dd2ad354f9324aa5a2d76d7524c255e8&pvs=4) | `interchain-token-service`                                            |
+
 | 2023-08 | [Yaar Hahn](audits/2023-08%20Yaar%20Hahn%20Governance.pdf)                            | [Here](https://bright-ambert-2bd.notion.site/efce50bb06294bec90a312a926b48e1e?v=e843785187654a1380c60d193d55ccd6&pvs=4) | `axelar-core` `axelar-cgp-solidity` Governance                        |
 | 2023-07 | [Code4rena](https://code4rena.com/reports/2023-07-axelar)                             | [Here](https://bright-ambert-2bd.notion.site/20214ae173e44ce98116add6adb20986?v=061b5affc40544409505fc63a4729217&pvs=4) | `interchain-token-service` `axelar-cgp-solidity` Governance           |
 | 2023-06 | NCC                                                                                   | [Here](https://bright-ambert-2bd.notion.site/fba917eacd1748b18864c36850d22072?v=ebe19401c3c64fb2a0000709ffcbe2f4&pvs=4) |  `axelar-core` `axelar-cgp-solidity` Governance           |
@@ -67,3 +83,15 @@ We conduct ongoing audits that review all changes to the code to ensure a high d
 | 2021-11 | [Adrian and Lucas](audits/2021-11%20Adrian%20and%20Lucas.pdf)                         |                                                                                                                         | `tofn`, `tofnd`                                                       |
 | 2021-11 | [Commonprefix](audits/2021-11%20Commonprefix.pdf)                                     |                                                                                                                         | `axelar-cgp-solidity`                                                 |
 | 2021-08 | NCC                                                                                   |                                                                                                                         | `tofn`, `tofnd`                                                       |
+
+---
+## Amplifier Chain Audits
+
+|  Date   | Audit  | Scope  |
+| :-----: | :----: | :----: |
+| 2025-01 | FYEO | Solana |
+| 2025-01 | [FYEO](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Axelar/Axelar%20-%20Security%20Code%20Review%20of%20Axelar%20Stacks%20v1.0.pdf) | Stacks |
+| 2024-12 | [FYEO](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Axelar/Axelar%20-%20Security%20Code%20Review%20of%20Axelar%20XRPL%20v1.0.pdf) | XRPL |
+| 2024-12 | NCC | XRPL |
+| 2024-12 | Ackee | Hedera |
+| 2024-11 | Arda | MultiversX |
