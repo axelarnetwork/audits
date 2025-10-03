@@ -96,7 +96,6 @@ For **Amplifier chain audits**, please refer to the [Amplifier Chain Audits](#Am
 | 2025-02 | [FYEO](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Axelar/Axelar%20-%20Security%20Code%20Review%20of%20Axelar%20Stacks%20v1.0.pdf) | Stacks |
 | 2025-01 | Arda | MultiversX (Phase 2) |
 | 2025-01 | [FYEO](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Axelar/Axelar%20Foundation%20-%20Security%20Code%20Review%20of%20Axelar%20-%20Solana%20Integration%20v1.0.pdf) | Solana |
-| 2025-01 | [FYEO](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Axelar/Axelar%20-%20Security%20Code%20Review%20of%20Axelar%20Stacks%20v1.0.pdf) | Stacks |
 | 2024-12 | [FYEO](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Axelar/Axelar%20-%20Security%20Code%20Review%20of%20Axelar%20XRPL%20v1.0.pdf) | XRPL |
 | 2024-12 | NCC | XRPL (Phase 1) |
 | 2024-12 | Ackee | Hedera |
