@@ -17,11 +17,12 @@ Audit reports cover the **core protocol, smart contracts, cryptographic library,
 
 We conduct **ongoing audits** that review all changes to the code to ensure a high degree of security.
 
-For **Amplifier chain audits**, please refer to the [Amplifier Chain Audits](#Amplifier-Chain-Audits) section.
+For **Amplifier chain audits**, please refer to the [Amplifier Chain Audits](#Amplifier-Chain-Audits) section. [2025-04 Ottersec]()
 
 
 | Date | Audit | Mitigations | Scope |
 | :-----: | :-----: | :-----: | :-----: |
+| 2025-04 | [Ottersec](audits/2025-04%20axelar_cgp_soroban_stellar_audit_final.pdf) | [Here](https://bright-ambert-2bd.notion.site/1e4c53fccb7780528af5f78eea0d5c88?v=1e4c53fccb778097ac89000c401f7874&pvs=4) | `axelar-amplifier-stellar`
 | 2025-01 | [Ackee Blockchain ITS](audits/2025-01%20Ackee_ITS.pdf) | [Here](https://bright-ambert-2bd.notion.site/189c53fccb778044a871def8221c2e39?v=189c53fccb7780f684d8000cf88ee197&pvs=4) | `interchain-token-service`
 | 2025-01 | [FYEO](audits/2025-01%20FYEO_Soroban.pdf) | [Here](https://bright-ambert-2bd.notion.site/189c53fccb77805c9083e66b03ba4237?v=189c53fccb7780e68feb000c3e3c371d&pvs=4) | `axelar-amplifier-stellar`
 | 2024-11 | [NCC](audits/2024-11%20NCC_ITS.pdf) | [Here](https://bright-ambert-2bd.notion.site/189c53fccb7780afbfb0da966345e578?v=189c53fccb77807cba16000cfd8f54f3&pvs=4) | `interchain-token-service`
