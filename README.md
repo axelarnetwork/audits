@@ -17,7 +17,7 @@ Audit reports cover the **core protocol, smart contracts, cryptographic library,
 
 We conduct **ongoing audits** that review all changes to the code to ensure a high degree of security.
 
-For **Amplifier chain audits**, please refer to the [Amplifier Chain Audits](#Amplifier-Chain-Audits) section. [2025-04 Ottersec]()
+For **Amplifier chain audits**, please refer to the [Amplifier Chain Audits](#Amplifier-Chain-Audits) section.
 
 
 | Date | Audit | Mitigations | Scope |
