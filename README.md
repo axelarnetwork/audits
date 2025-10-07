@@ -52,7 +52,7 @@ We conduct **ongoing audits** that review all changes to the code to ensure a hi
 | 2023-08 | [Yaar Hahn](audits/2023-08%20Yaar%20Hahn%20ITS.pdf) | [Mitigations](https://bright-ambert-2bd.notion.site/8e1db8cbf7354ec2b4083953cdca6b63?v=dd2ad354f9324aa5a2d76d7524c255e8&pvs=4) | `interchain-token-service` |
 | 2023-08 | [Yaar Hahn](audits/2023-08%20Yaar%20Hahn%20Governance.pdf) | [Mitigations](https://bright-ambert-2bd.notion.site/efce50bb06294bec90a312a926b48e1e?v=e843785187654a1380c60d193d55ccd6&pvs=4) | `axelar-core` `axelar-cgp-solidity` Governance |
 | 2023-07 | [Code4rena](https://code4rena.com/reports/2023-07-axelar) | [Mitigations](https://bright-ambert-2bd.notion.site/20214ae173e44ce98116add6adb20986?v=061b5affc40544409505fc63a4729217&pvs=4) | `interchain-token-service` `axelar-cgp-solidity` Governance |
-| 2023-06 | NCC | [Mitigations](https://bright-ambert-2bd.notion.site/fba917eacd1748b18864c36850d22072?v=ebe19401c3c64fb2a0000709ffcbe2f4&pvs=4) |  `axelar-core` `axelar-cgp-solidity` Governance |
+| 2023-06 | NCC | [Mitigations](https://bright-ambert-2bd.notion.site/fba917eacd1748b18864c36850d22072?v=ebe19401c3c64fb2a0000709ffcbe2f4&pvs=4) | `axelar-core` `axelar-cgp-solidity` Governance |
 | 2023-04 | [Informal Systems](audits/2023-04%20Informal%20Systems.pdf) | [Mitigations](https://bright-ambert-2bd.notion.site/542b570654af4c33b36ab4433e98401a?v=f48bfb9823954559a5f843082e6bdcf9&pvs=4) | `axelar-core` Cosmos GMP |
 | 2023-04 | [Ackee Blockchain](audits/2023-04%20Ackee%20Blockchain.pdf) | | `interchain-token-service` |
 | 2023-02 | NCC | | `axelar-core` Cosmos GMP |
