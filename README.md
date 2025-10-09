@@ -30,8 +30,8 @@ We conduct **ongoing audits** that review all changes to the code to ensure a hi
 | 2025-01 | [FYEO](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Axelar/Axelar%20Foundation%20-%20Security%20Code%20Review%20of%20Axelar%20-%20Solana%20Integration%20v1.0.pdf) | | Solana |
 | 2025-01 | [Ackee Blockchain ITS](audits/2025-01%20Ackee_ITS.pdf) | [Mitigations](https://bright-ambert-2bd.notion.site/189c53fccb778044a871def8221c2e39?v=189c53fccb7780f684d8000cf88ee197&pvs=4) | `interchain-token-service` |
 | 2025-01 | [FYEO](audits/2025-01%20FYEO_Soroban.pdf) | [Mitigations](https://bright-ambert-2bd.notion.site/189c53fccb77805c9083e66b03ba4237?v=189c53fccb7780e68feb000c3e3c371d&pvs=4) | `axelar-amplifier-stellar` |
+| 2025-01 | [NCC](audits/2025-01_NCC_Axelar_E010021_XRPL_Report_v1.2.pdf) | | XRPL (Phase 1) |
 | 2024-12 | [FYEO](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Axelar/Axelar%20-%20Security%20Code%20Review%20of%20Axelar%20XRPL%20v1.0.pdf) | | XRPL |
-| 2024-12 | NCC | | XRPL (Phase 1) |
 | 2024-12 | Ackee | | Hedera |
 | 2024-11 | [NCC](audits/2024-11%20NCC_ITS.pdf) | [Mitigations](https://bright-ambert-2bd.notion.site/189c53fccb7780afbfb0da966345e578?v=189c53fccb77807cba16000cfd8f54f3&pvs=4) | `interchain-token-service` |
 | 2024-11 | [Ottersec](audits/2024-11%20Ottersec_Sui_Gateway.pdf) | [Mitigations](https://bright-ambert-2bd.notion.site/15bc53fccb7780d48608d3657b6662ec?v=a804f3291a1a4cd58a7a6ab633ca85b0&pvs=4) | `axelar-cgp-sui` |
