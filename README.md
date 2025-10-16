@@ -22,21 +22,21 @@ We conduct **ongoing audits** that review all changes to the code to ensure a hi
 | :-----: | :-----: | :-----: | :-----: |
 | 2025-08 | [Ackee](audits/2025-08_ackee-blockchain-axelar-program-suite-for-solona-report.pdf)| See report | `Solona v1` |
 | 2025-04 | [Ottersec](audits/2025-04%20axelar_cgp_soroban_stellar_audit_final.pdf) | [Mitigations](https://bright-ambert-2bd.notion.site/1e4c53fccb7780528af5f78eea0d5c88?v=1e4c53fccb778097ac89000c401f7874&pvs=4) | `axelar-amplifier-stellar` |
-| 2025-04 | [NCC](audits/2025-04%20NCC%20_%20XRPL%20_%20Final%20v1.0_phase3.pdf) | See report | `XRPL (Phase 3)` |
-| 2025-04 | Arda | | `MultiversX (Phase 3)` |
+| 2025-04 | [NCC](audits/2025-04%20NCC%20_%20XRPL%20_%20Final%20v1.0_phase3.pdf) | See report | `XRPL` |
+| 2025-04 | Arda | | `MultiversX` |
 | 2025-04 | Ackee | | `Solana` |
-| 2025-02 | NCC | | `XRPL (Phase 2)` |
+| 2025-02 | NCC | | `XRPL` |
 | 2025-02 | [FYEO](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Axelar/Axelar%20-%20Security%20Code%20Review%20of%20Axelar%20Stacks%20v1.0.pdf) | | `Stacks` |
-| 2025-01 | Arda | | `MultiversX (Phase 2)` |
+| 2025-01 | Arda | | `MultiversX` |
 | 2025-01 | [FYEO](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Axelar/Axelar%20Foundation%20-%20Security%20Code%20Review%20of%20Axelar%20-%20Solana%20Integration%20v1.0.pdf) | | `Solana` |
 | 2025-01 | [Ackee Blockchain ITS](audits/2025-01%20Ackee_ITS.pdf) | [Mitigations](https://bright-ambert-2bd.notion.site/189c53fccb778044a871def8221c2e39?v=189c53fccb7780f684d8000cf88ee197&pvs=4) | `interchain-token-service` |
 | 2025-01 | [FYEO](audits/2025-01%20FYEO_Soroban.pdf) | [Mitigations](https://bright-ambert-2bd.notion.site/189c53fccb77805c9083e66b03ba4237?v=189c53fccb7780e68feb000c3e3c371d&pvs=4) | `axelar-amplifier-stellar` |
-| 2025-01 | [NCC](audits/2025-01%20NCC%20Axelar%20E010021%20XRPL%20Report%20v1.2.pdf) | | `XRPL (Phase 1)` |
+| 2025-01 | [NCC](audits/2025-01%20NCC%20Axelar%20E010021%20XRPL%20Report%20v1.2.pdf) | | `XRPL` |
 | 2024-12 | [FYEO](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Axelar/Axelar%20-%20Security%20Code%20Review%20of%20Axelar%20XRPL%20v1.0.pdf) | | `XRPL` |
 | 2024-12 | Ackee | | `Hedera` |
 | 2024-11 | [NCC](audits/2024-11%20NCC_ITS.pdf) | [Mitigations](https://bright-ambert-2bd.notion.site/189c53fccb7780afbfb0da966345e578?v=189c53fccb77807cba16000cfd8f54f3&pvs=4) | `interchain-token-service` |
 | 2024-11 | [Ottersec](audits/2024-11%20Ottersec_Sui_Gateway.pdf) | [Mitigations](https://bright-ambert-2bd.notion.site/15bc53fccb7780d48608d3657b6662ec?v=a804f3291a1a4cd58a7a6ab633ca85b0&pvs=4) | `axelar-cgp-sui` |
-| 2024-11 | Arda | | `MultiversX (Phase 1)` |
+| 2024-11 | Arda | | `MultiversX` |
 | 2024-08 | [Code4rena](https://code4rena.com/reports/2024-08-axelar-network) | [Mitigations](https://bright-ambert-2bd.notion.site/190c53fccb7780349179cec9e07bff24?v=190c53fccb77806eb064000c07a54637&pvs=4) | `axelar-amplifier` `interchain-token-service` `axelar-gmp-sdk-solidity` |
 | 2024-07 | [Ackee Blockchain](audits/2024-07%20Ackee%20Blockchain.pdf) | [Mitigations](https://bright-ambert-2bd.notion.site/6500bd49bd9a4e139936e8ebb97e592d?v=0d59d1bd0de145fa9e731c0d179219db&pvs=4) | `AxelarAmplifierGateway` |
 | 2024-06 | [Ottersec](audits/2024-06%20Ottersec.pdf) | [Mitigations](https://bright-ambert-2bd.notion.site/202406-Ottersec-Sui-d6161ff8a5214a908aa71ca68c00ba80?pvs=4) | `axelar-cgp-sui` |
