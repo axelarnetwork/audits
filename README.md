@@ -23,7 +23,7 @@ We conduct **ongoing audits** that review all changes to the code to ensure a hi
 | 2025-04 | [Ottersec](audits/2025-04%20axelar_cgp_soroban_stellar_audit_final.pdf) | [Mitigations](https://bright-ambert-2bd.notion.site/1e4c53fccb7780528af5f78eea0d5c88?v=1e4c53fccb778097ac89000c401f7874&pvs=4) | `axelar-amplifier-stellar` |
 | 2025-04 | [NCC](audits/2025-04%20NCC%20_%20XRPL%20_%20Final%20v1.0_phase3.pdf) |  | `XRPL` |
 | 2025-04 | [Arda](audits/2025-04_Axelar_mvx-gas-service.pdf) | | `MultiverseX` Gas Service |
-| 2025-04 | [Arda](audits/2025-04_Axelar_mvx-governance_-2-.pdf) | | `MultiverseX` Governance |
+| 2025-04 | [Arda](audits/2025-04_Axelar_mvx-governance.pdf) | | `MultiverseX` Governance |
 | 2025-04 | [Arda](audits/2025-04_Axelar_mvx-token-manager.pdf) | | `MultiverseX` Token Manager |
 | 2025-04 | [Arda](audits/2025-04_Axelar_mvx-interchain-token-service-proxy.pdf) | | `MultiverseX` Interchain Token Service Proxy |
 | 2025-04 | [Arda](audits/2025-04_Axelar_mvx-interchain-token-factory.pdf) | | `MultiverseX` Interchain Token Factory |
