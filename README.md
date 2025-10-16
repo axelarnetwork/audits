@@ -20,7 +20,6 @@ We conduct **ongoing audits** that review all changes to the code to ensure a hi
 
 | Date | Audit | Mitigations | Scope |
 | :-----: | :-----: | :-----: | :-----: |
-| 2025-08 | [Ackee](audits/2025-08_ackee-blockchain-axelar-program-suite-for-solona-report.pdf)| See report | `Solona v1` |
 | 2025-04 | [Ottersec](audits/2025-04%20axelar_cgp_soroban_stellar_audit_final.pdf) | [Mitigations](https://bright-ambert-2bd.notion.site/1e4c53fccb7780528af5f78eea0d5c88?v=1e4c53fccb778097ac89000c401f7874&pvs=4) | `axelar-amplifier-stellar` |
 | 2025-04 | [NCC](audits/2025-04%20NCC%20_%20XRPL%20_%20Final%20v1.0_phase3.pdf) | See report | `XRPL (Phase 3)` |
 | 2025-04 | Arda | | `MultiversX (Phase 3)` |
