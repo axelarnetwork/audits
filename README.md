@@ -26,7 +26,7 @@ We conduct **ongoing audits** that review all changes to the code to ensure a hi
 | 2025-04 | [Arda](audits/2025-04_Axelar_mvx-governance_-2-.pdf) | | `MultiverseX` Governance |
 | 2025-04 | [Arda](audits/2025-04_Axelar_mvx-token-manager.pdf) | | `MultiverseX` Token Manager |
 | 2025-04 | [Arda](audits/2025-04_Axelar_mvx-interchain-token-service-proxy.pdf) | | `MultiverseX` Interchain Token Service Proxy |
-| 2024-04 | [Arda](audits/2025-04_Axelar_mvx-interchain-token-factory.pdf) | | `MultiverseX` Interchain Token Factory |
+| 2025-04 | [Arda](audits/2025-04_Axelar_mvx-interchain-token-factory.pdf) | | `MultiverseX` Interchain Token Factory |
 | 2025-04 | [Arda](audits/2025-04_Axelar_mvx-interchain-token-service.pdf) | | `MultiverseX` Interchain Token Service (ITS) |
 | 2025-04 | [Arda](audits/2025-04_Axelar_mvx-gateway.pdf) | | `MultiverseX` Gateway |
 | 2025-04 | Ackee | | `Solana` |
