@@ -25,11 +25,11 @@ We conduct **ongoing audits** that review all changes to the code to ensure a hi
 | 2025-04 | [Arda](audits/2025-04-multiversx-gas-service.pdf) | | `MultiversX` Gas Service |
 | 2025-04 | [Arda](audits/2025-04-multiversx-governance-2.pdf) | | `MultiversX` Governance Part 2 |
 | 2025-04 | [Arda](audits/2025-04-multiversx-governance-1.pdf) | | `MultiversX` Governance Part 1 |
-| 2025-04 | [Arda](audits/2025-04_Axelar_mvx-token-manager.pdf) | | `MultiverseX` Token Manager |
-| 2025-04 | [Arda](audits/2025-04_Axelar_mvx-interchain-token-service-proxy.pdf) | | `MultiverseX` Interchain Token Service Proxy |
-| 2025-04 | [Arda](audits/2025-04_Axelar_mvx-interchain-token-factory.pdf) | | `MultiverseX` Interchain Token Factory |
-| 2025-04 | [Arda](audits/2025-04_Axelar_mvx-interchain-token-service.pdf) | | `MultiverseX` Interchain Token Service (ITS) |
-| 2025-04 | [Arda](audits/2025-04_Axelar_mvx-gateway.pdf) | | `MultiverseX` Gateway |
+| 2025-04 | [Arda](audits/2025-04_Axelar_mvx-token-manager.pdf) | | `MultiversX` Token Manager |
+| 2025-04 | [Arda](audits/2025-04_Axelar_mvx-interchain-token-service-proxy.pdf) | | `MultiversX` Interchain Token Service Proxy |
+| 2025-04 | [Arda](audits/2025-04_Axelar_mvx-interchain-token-factory.pdf) | | `MultiversX` Interchain Token Factory |
+| 2025-04 | [Arda](audits/2025-04_Axelar_mvx-interchain-token-service.pdf) | | `MultiversX` Interchain Token Service (ITS) |
+| 2025-04 | [Arda](audits/2025-04_Axelar_mvx-gateway.pdf) | | `MultiversX` Gateway |
 | 2025-04 | Ackee | | `Solana` |
 | 2025-02 | NCC | | `XRPL` |
 | 2025-02 | [FYEO](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Axelar/Axelar%20-%20Security%20Code%20Review%20of%20Axelar%20Stacks%20v1.0.pdf) | | `Stacks` |
